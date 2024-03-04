@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arvind-2255, a Data Science enthusiast with specializations in Machine Learning, Data Engineering, and Python coding.
+- 👋 Hi, I’m a Data Science enthusiast with specializations in Machine Learning, Data Engineering, and Python coding.
   
 - 👀 I’m interested in exploring innovative applications of AI and ML in solving real-world problems.
 - 🌱 I’m currently learning advanced techniques in deep learning and big data processing.
